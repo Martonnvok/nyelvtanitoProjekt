@@ -1,15 +1,8 @@
-import { szenvedoMondatok } from "../model/angol";
-
-export default function MondatSelect(mondatObj, kovetkezo) {
-
-    function kovetkezo(){
-
-    }
-
+export default function MondatSelect() {
     return (
         <div>
             <select>
-                <option mondatObj kovetkezo></option>
+                <option></option>
             </select>
         </div>
     );

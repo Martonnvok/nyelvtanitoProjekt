@@ -6,7 +6,7 @@ const Layout = () => {
             <nav>
                 <ul>
                     <li>
-                        <Link to="/Gepel">Válaszd ki!</Link>
+                        <Link to="/">Válaszd ki!</Link>
                     </li>
                     <li>
                         <Link to="/Gepel">Egészítsd ki!</Link>
